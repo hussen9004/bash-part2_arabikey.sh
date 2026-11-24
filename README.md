@@ -1,0 +1,1 @@
+# bash-part2_arabikey.sh
